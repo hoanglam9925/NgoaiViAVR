@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"master.c" LINE:242
+hienchuoi DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"master.c" LINE:69
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:8 FILE:"C:\cvavr\lib\string.lib" LINE:1706
+usart_rx_isr DSTACK_USAGE:12 DSTACK_LEVEL:20 FILE:"master.c" LINE:122
+strcmp DSTACK_USAGE:4 DSTACK_LEVEL:24 FILE:"C:\cvavr\lib\string.lib" LINE:1001

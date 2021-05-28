@@ -1,0 +1,10 @@
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\bin\Debug\VS.exe.config
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\bin\Debug\VS.exe
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\bin\Debug\VS.pdb
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.csprojAssemblyReference.cache
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.Form1.resources
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.Properties.Resources.resources
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.csproj.GenerateResource.cache
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.csproj.CoreCompileInputs.cache
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.exe
+C:\Users\shoan\Desktop\xamloz\New folder\VS\VS\obj\Debug\VS.pdb

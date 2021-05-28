@@ -1,0 +1,27 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+nhietdo                                                                           0x0177       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+tram                                                                              R5           1
+chuc                                                                              R4           1
+dvi                                                                               R7           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+read_adc                                                                          0x0006A     13
+khoidong                                                                          0x00077      7
+hienthi                                                                           0x0007E      7
+hienchuoi                                                                         0x00085     28
+SPI_tranceiver                                                                    0x000A1      8
+spi_isr                                                                           0x000A9     68
+main                                                                              0x000ED    108
+strlen                                                                            0x00159     12
